@@ -1,2 +1,2 @@
 # stunning-invention
-first experience to git-hab
+first experience to git-hub
